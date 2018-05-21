@@ -1,0 +1,11 @@
+# List of Ubuntu APT packages to install
+nano
+htop
+#
+# Required for Docker-CE Setup
+curl
+apt-transport-https
+ca-certificates
+software-properties-common
+#
+make
